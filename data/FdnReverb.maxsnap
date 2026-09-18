@@ -1,0 +1,21 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "FdnReverb",
+	"origin" : "OmniCompressor.vstinfo",
+	"type" : "VST",
+	"subtype" : "AudioEffect",
+	"embed" : 1,
+	"snapshot" : 	{
+		"pluginname" : "OmniCompressor.vstinfo",
+		"plugindisplayname" : "OmniCompressor",
+		"pluginsavedname" : "/Library/Audio/Plug-Ins/VST3/OmniCompressor",
+		"pluginsaveduniqueid" : 0,
+		"version" : 1,
+		"isbank" : 0,
+		"isbase64" : 1,
+		"blob" : "600.CMlaKA....fQPMDZ....A7TaC8F.APPA....A........................................H.GVMjLgLg....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOO0laoMzasAmbkM2buImO7.UPRETSfjFY8HRXzQWXislHfXWXrUWY8HxLv3BLh7hO7.UPRETSfjFY8HxZtUVYh.hcgwVck0iHv3BLh7hO7.UPRETSfjFY8HBau81ZAgVYgQlHfXWXrUWY8HBLt.iHu3COPEjTA0DHoQVOh7lbjUlbSUFczklamIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHuUGcGEVZtIBH1EFa0UVOh.iKvHxK9vCTAIUPMARZj0iHxEFco8lHfXWXrUWY8HBMt.iHu3COPEjTA0DHoQVOhHWYrUVXyUlHfXWXrUWY8HRL0.iKvHxK9vCTAIUPMARZj0iHxUFbuIGcLEFck41X4IBH1EFa0UVOhDiKvHxK9vCTAIUPMARZj0iHzglbkMGZuwFYh.hcgwVck0iHsDCLt.iHu3COPEjTA0DHoQVOhT2bkMkSyPjHfXWXrUWY8HRLt.iHu3COOM0PC8lalk1YfHUYiUVZ1UlbP8lbz0iHsDiHfLUYtQVYxkDT8HhHfLUYtQVYxA0axQWOhzRLh.xTk4FYkI2SSMTPjQlbkM2b8HxKO0laoMzasAmbkM2buI2Kh.xTk4FYkIWRtQWYxYWXr0iHw.CLh7hO77xSs4VZC8VavIWYyM2ax4C."
+	}
+
+}

@@ -1,0 +1,5453 @@
+{
+	"pattrstorage" : 	{
+		"name" : "faders",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 138, 137, 139, 138, 133, 138, 136, 139, 128, 141, 127, 136, 131, 139, 139 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 2, 0.004, 0, 4, 0.672, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 1, 0.608, 1, 2, 0.004, 1, 3, 0.616, 2, 1, 0.004, 2, 5, 0.572, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ -12.266841644794383 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 67586.3061933904537 ],
+					"number[4]" : [ 15163.583291106391698 ],
+					"number[5]" : [ 42746.872227359424869 ],
+					"number[7]" : [ 0.990447169667536 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 88 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 138, 137, 139, 138, 133, 138, 136, 139, 128, 141, 127, 136, 131, 139, 139 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 2, 0.004, 0, 4, 0.672, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 1, 0.608, 1, 2, 0.004, 1, 3, 0.616, 2, 1, 0.004, 2, 5, 0.572, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ -12.266841644794383 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 67586.3061933904537 ],
+					"number[4]" : [ 15163.583291106391698 ],
+					"number[5]" : [ 42746.872227359424869 ],
+					"number[7]" : [ -0.166666770833074 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 88 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 143, 142, 142, 142, 142, 143, 139, 143, 142, 142, 141, 144, 141, 142, 142, 141 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -1.12671483074925 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.812000000000001, 0, 4, 0.604, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 3, 0.740000000000001, 1, 5, 0.003418803453445, 1, 10, 0.4, 2, 1, 0.476, 2, 6, 0.716000000000001, 2, 7, 0.42, 2, 23, 0.008, 3, 9, 0.708000000000001 ],
+					"mc.live.gain~" : [ -4.787401574803155 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 225129.708333333313931 ],
+					"number[4]" : [ 42813.125 ],
+					"number[5]" : [ 56282.416666666664241 ],
+					"number[7]" : [ 0.99997160588929 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 15 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10811.0, 1.0, 3.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 10811.0 ],
+					"gain1" : [ 51.0 ],
+					"gain~" : [ 139 ],
+					"gswitch" : [ 1 ],
+					"gswitch[1]" : [ 1 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -0.740006012428537 ],
+					"live.gain~[2]" : [ 0.136482939632572 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.7, 0, 1, 0.648, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.664, 1, 4, 0.54, 1, 5, 0.728, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.68, 3, 8, 0.004, 3, 9, 0.54, 3, 10, 0.616, 3, 11, 0.556, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.544, 4, 14, 0.572, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.5, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.484, 7, 4, 0.003418803453445, 7, 21, 0.488, 7, 22, 0.404 ],
+					"mc.live.gain~" : [ -0.358705161854772 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 403029.333333333313931 ],
+					"number[4]" : [ 31255.333333333332121 ],
+					"number[5]" : [ 82250.875 ],
+					"number[7]" : [ -0.966469222774326 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "sliding_08.mp3",
+										"filename" : "sliding_08.mp3",
+										"filekind" : "audiofile",
+										"id" : "u793011376",
+										"loop" : 0,
+										"content_state" : 										{
+
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"selection" : [ 0.698863636363636, 0.579545454545455 ],
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 3.0 ],
+					"slider" : [ 83 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 0 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 157, 12, 12, 12, 12, 12, 14, 17, 6, 8, 8, 11, 11, 11, 11, 11 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.627891702285808 ],
+					"live.gain~[3]" : [ -13.223846848823619 ],
+					"matrixctrl" : [ 0, 0, 0.744000000000001, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 5, 0.003418803453445, 2, 23, 0.008 ],
+					"mc.live.gain~" : [ -4.787401574803155 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 39193.375 ],
+					"number[4]" : [ 17517.020833333332121 ],
+					"number[5]" : [ 28795.125 ],
+					"number[7]" : [ -0.747881327568743 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 1 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 13 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 157, 12, 12, 12, 12, 12, 14, 17, 6, 8, 8, 11, 11, 11, 11, 11 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.627891702285808 ],
+					"live.gain~[3]" : [ -13.223846848823619 ],
+					"matrixctrl" : [ 0, 0, 0.744000000000001, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 5, 0.003418803453445, 2, 23, 0.008 ],
+					"mc.live.gain~" : [ -4.787401574803155 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 39193.375 ],
+					"number[4]" : [ 17517.020833333332121 ],
+					"number[5]" : [ 28795.125 ],
+					"number[7]" : [ -0.85962159852292 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 1 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 13 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 5, 0, 0, 0, 17247.0, 9.0, 3.700000047683716 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 17247.0 ],
+					"gain1" : [ 9.0 ],
+					"gain~" : [ 138, 137, 137, 138, 140, 138, 138, 140, 142, 140, 141, 138, 137, 138, 136, 139 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.627891702285808 ],
+					"live.gain~[3]" : [ -15.058492518114988 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 1, 0.308, 1, 3, 0.316, 2, 1, 0.004, 2, 6, 0.444, 2, 8, 0.004, 3, 9, 0.508, 3, 21, 0.004, 4, 12, 0.408, 5, 15, 0.48, 6, 13, 0.004, 6, 18, 0.456, 7, 4, 0.003418803453445 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 14736.848582463637285 ],
+					"number[4]" : [ 1804.489858354490025 ],
+					"number[5]" : [ 11789.478865970910192 ],
+					"number[7]" : [ 0.470926056743469 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 3.7 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 2 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 5 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 2, 0, 0, 0, 65.820892333984375, 1.0, 0.5 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4598.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 143, 142, 142, 142, 142, 141, 142, 142, 142, 142, 141, 141, 141, 142, 142, 141 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -1.656788473444408 ],
+					"live.gain~[2]" : [ -70.0 ],
+					"live.gain~[3]" : [ -12.54893138357707 ],
+					"matrixctrl" : [ 0, 0, 0.812000000000001, 0, 4, 0.604, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 3, 0.740000000000001, 1, 5, 0.003418803453445, 1, 10, 0.4, 2, 1, 0.476, 2, 6, 0.716000000000001, 2, 7, 0.42, 2, 23, 0.008, 3, 9, 0.708000000000001, 4, 12, 0.192, 4, 13, 0.124, 4, 16, 0.236, 5, 15, 0.316, 5, 18, 0.304, 6, 17, 0.376, 6, 20, 0.12, 6, 22, 0.748000000000001, 7, 19, 0.352, 7, 21, 0.760000000000001 ],
+					"mc.live.gain~" : [ -4.787401574803155 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ 1.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 385725.333333333313931 ],
+					"number[4]" : [ 21429.166666666664241 ],
+					"number[5]" : [ 291766.583333333313931 ],
+					"number[7]" : [ -0.902781701628873 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 0.0 ],
+					"slider" : [ 126 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 8 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 2 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 21, 137, 20, 138, 19, 140, 20, 139, 19, 140, 18, 136, 17, 135, 16 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.243525810496679 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 21, 137, 20, 138, 19, 140, 20, 139, 19, 140, 18, 136, 17, 135, 16 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.414988797917472 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 21, 137, 20, 138, 19, 140, 20, 139, 19, 140, 18, 136, 17, 139, 16 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.596088291866382 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"13" : 			{
+				"id" : 13,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 21, 137, 116, 138, 19, 140, 115, 139, 19, 140, 115, 136, 17, 139, 117 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ 0.430876216793313 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"14" : 			{
+				"id" : 14,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 112, 137, 116, 138, 111, 140, 115, 139, 117, 140, 115, 136, 121, 127, 117 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ 0.997906310814342 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"15" : 			{
+				"id" : 15,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 112, 137, 116, 138, 111, 140, 115, 139, 117, 140, 115, 136, 121, 127, 117 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ 0.792154038548424 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"16" : 			{
+				"id" : 16,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 136, 137, 138, 138, 138, 140, 137, 139, 138, 140, 138, 136, 142, 127, 141 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.322673307187778 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"17" : 			{
+				"id" : 17,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 142, 141, 141, 137, 137, 139, 139, 139, 140, 139, 138, 140, 138, 138, 137, 138 ],
+					"gswitch" : [ 1 ],
+					"gswitch[1]" : [ 1 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.484, 0, 1, 0.472, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 2, 0.22, 1, 3, 0.188, 2, 1, 0.004, 2, 4, 0.012, 2, 6, 0.387999999999999, 2, 7, 0.54, 2, 8, 0.004, 3, 7, 0.008, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303313.139746465312783 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ 0.731830842120901 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 126 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 27 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"18" : 			{
+				"id" : 18,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 141, 142, 142, 141, 142, 138, 138, 138, 138, 138, 139, 140, 142, 139, 139 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.904000000000001, 0, 1, 0.892000000000001, 0, 2, 0.928000000000001, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.860000000000001, 1, 4, 0.876, 1, 5, 0.836, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.976000000000001, 2, 7, 1.0, 2, 8, 1.0, 3, 8, 0.004, 3, 9, 1.0, 3, 10, 0.884000000000001, 3, 11, 1.0, 3, 21, 0.004, 4, 12, 1.0, 4, 13, 1.0, 4, 14, 1.0, 5, 13, 0.004, 5, 15, 1.0, 5, 16, 1.0, 5, 17, 1.0, 6, 13, 0.004, 6, 18, 1.0, 6, 19, 1.0, 6, 20, 0.956000000000001, 7, 4, 0.003418803453445, 7, 21, 0.988000000000001, 7, 22, 1.0, 7, 23, 0.904 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 496721.287028039281722 ],
+					"number[4]" : [ 14859.161511865784632 ],
+					"number[5]" : [ 481862.102840435749386 ],
+					"number[7]" : [ -0.807756795456086 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 7 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 9 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"19" : 			{
+				"id" : 19,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 125, 127, 126, 127, 127, 126, 129, 129, 129, 129, 124, 129, 124, 126, 126, 126 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.011770435911998 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.008, 0, 1, 0.616, 0, 4, 0.616, 0, 6, 0.004, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 0, 0.68, 1, 5, 0.003418803453445, 1, 6, 0.004, 2, 3, 0.596, 2, 6, 0.492, 2, 7, 0.216, 2, 23, 0.008, 3, 9, 0.648, 3, 10, 0.632, 4, 12, 0.004, 4, 13, 0.004, 5, 15, 0.292, 5, 16, 0.256, 6, 18, 0.324, 6, 19, 0.416, 7, 21, 0.304, 7, 22, 0.344 ],
+					"mc.live.gain~" : [ -5.984251968503941 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 18153.333333333332121 ],
+					"number[4]" : [ 6361.41666666666606 ],
+					"number[5]" : [ 9542.125 ],
+					"number[7]" : [ -0.805057926946498 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 124 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 5 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"20" : 			{
+				"id" : 20,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 22050.0, 1.0, 0.899999976158142 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3322.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 137, 137, 2, 2, 2, 4, 4, 5, 5, 5, 5, 8, 5, 8, 8, 8 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -70.0 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -16.721162432015589 ],
+					"live.gain~[3]" : [ -17.393700787401571 ],
+					"matrixctrl" : [ 0, 0, 0.72, 0, 2, 0.004, 0, 4, 0.632, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 1, 0.648, 1, 2, 0.004, 1, 3, 0.648, 2, 1, 0.004, 2, 5, 0.572, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ -9.333333333333329 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 330473.9375 ],
+					"number[4]" : [ 20478.083333333332121 ],
+					"number[5]" : [ 71320.229166666656965 ],
+					"number[7]" : [ 0.834165075524423 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 0.9 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 1 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"21" : 			{
+				"id" : 21,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 13, 141, 10, 137, 9, 137, 9, 136, 10, 10, 10, 10, 10, 10, 10 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 2523280.087306572590023 ],
+					"number[4]" : [ 744044.107376898173243 ],
+					"number[5]" : [ 803351.977909701527096 ],
+					"number[7]" : [ 0.826436779042355 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"22" : 			{
+				"id" : 22,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 2031.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 2031.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 129, 128, 126, 123, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -8.878143073490698 ],
+					"live.gain~[2]" : [ -68.502313499472351 ],
+					"live.gain~[3]" : [ -22.694600674915677 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303293.978748069959693 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.575999999485634 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"23" : 			{
+				"id" : 23,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 2955.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 2955.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 129, 128, 126, 123, 4, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -8.878143073490698 ],
+					"live.gain~[2]" : [ -68.502313499472351 ],
+					"live.gain~[3]" : [ -22.694600674915677 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 303293.978748069959693 ],
+					"number[4]" : [ 46663.539029544437653 ],
+					"number[5]" : [ 268963.569396957755089 ],
+					"number[7]" : [ -0.463999999483812 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 111 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"25" : 			{
+				"id" : 25,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 141, 142, 142, 141, 142, 15, 15, 17, 15, 16, 139, 140, 142, 139, 139 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.904000000000001, 0, 1, 0.892000000000001, 0, 2, 0.928000000000001, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.860000000000001, 1, 4, 0.876, 1, 5, 0.836, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.976000000000001, 2, 7, 1.0, 2, 8, 1.0, 3, 8, 0.004, 3, 9, 1.0, 3, 10, 0.884000000000001, 3, 11, 1.0, 3, 21, 0.004, 4, 12, 1.0, 4, 13, 1.0, 4, 14, 1.0, 5, 13, 0.004, 5, 15, 1.0, 5, 16, 1.0, 5, 17, 1.0, 6, 13, 0.004, 6, 18, 1.0, 6, 19, 1.0, 6, 20, 0.956000000000001, 7, 4, 0.003418803453445, 7, 21, 0.988000000000001, 7, 22, 1.0, 7, 23, 0.904 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 496721.287028039281722 ],
+					"number[4]" : [ 14859.161511865784632 ],
+					"number[5]" : [ 481862.102840435749386 ],
+					"number[7]" : [ -0.813321044953883 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 7 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 9 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"26" : 			{
+				"id" : 26,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10811.0, 1.0, 3.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 10811.0 ],
+					"gain1" : [ 51.0 ],
+					"gain~" : [ 137, 138, 137, 136, 0, 6, 6, 3, 3, 6, 3, 3, 4, 4, 4, 4 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -8.574342896788558 ],
+					"live.gain~[2]" : [ -9.434532023703248 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.648, 0, 4, 0.604, 0, 21, 0.004, 0, 23, 0.008, 1, 1, 0.628, 1, 3, 0.584, 2, 6, 0.556, 2, 10, 0.688, 3, 7, 0.596, 3, 9, 0.532, 3, 21, 0.004, 4, 9, 0.004, 4, 12, 0.004, 5, 3, 0.004, 5, 10, 0.004, 5, 13, 0.004, 5, 16, 0.004, 6, 13, 0.004 ],
+					"mc.live.gain~" : [ -6.222222222222229 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 2652186.214215759653598 ],
+					"number[4]" : [ 1122078.768983136629686 ],
+					"number[5]" : [ 1246754.192798093426973 ],
+					"number[7]" : [ 0.934993737041057 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "sliding_08.mp3",
+										"filename" : "sliding_08.mp3",
+										"filekind" : "audiofile",
+										"id" : "u793011376",
+										"loop" : 0,
+										"content_state" : 										{
+
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"selection" : [ 0.698863636363636, 0.579545454545455 ],
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 3.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 99 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 9 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"27" : 			{
+				"id" : 27,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10498.4326171875, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3209.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 13, 141, 10, 137, 9, 137, 9, 136, 10, 10, 10, 10, 10, 10, 10 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 2523280.087306572590023 ],
+					"number[4]" : [ 744044.107376898173243 ],
+					"number[5]" : [ 803351.977909701527096 ],
+					"number[7]" : [ 0.664361663428176 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"28" : 			{
+				"id" : 28,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10498.4326171875, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3209.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 13, 141, 10, 137, 9, 137, 9, 136, 10, 10, 10, 10, 10, 10, 10 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 8, 0.004, 3, 7, 0.316, 3, 9, 0.508, 3, 21, 0.004, 4, 10, 0.316, 4, 12, 0.34, 5, 13, 0.32, 5, 15, 0.4, 6, 13, 0.004, 6, 16, 0.372, 6, 18, 0.428, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 2523280.087306572590023 ],
+					"number[4]" : [ 744044.107376898173243 ],
+					"number[5]" : [ 803351.977909701527096 ],
+					"number[7]" : [ 0.87181120558822 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 6 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"33" : 			{
+				"id" : 33,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 141, 142, 142, 141, 142, 138, 138, 138, 138, 138, 139, 140, 142, 139, 139 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.904000000000001, 0, 1, 0.892000000000001, 0, 2, 0.928000000000001, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.860000000000001, 1, 4, 0.876, 1, 5, 0.836, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.976000000000001, 2, 7, 1.0, 2, 8, 1.0, 3, 8, 0.004, 3, 9, 1.0, 3, 10, 0.884000000000001, 3, 11, 1.0, 3, 21, 0.004, 4, 12, 1.0, 4, 13, 1.0, 4, 14, 1.0, 5, 13, 0.004, 5, 15, 1.0, 5, 16, 1.0, 5, 17, 1.0, 6, 13, 0.004, 6, 18, 1.0, 6, 19, 1.0, 6, 20, 0.956000000000001, 7, 4, 0.003418803453445, 7, 21, 0.988000000000001, 7, 22, 1.0, 7, 23, 0.904 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 496721.287028039281722 ],
+					"number[4]" : [ 14859.161511865784632 ],
+					"number[5]" : [ 481862.102840435749386 ],
+					"number[7]" : [ -0.856314009386053 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 1 ],
+					"umenu" : [ 7 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 9 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"34" : 			{
+				"id" : 34,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10811.0, 1.0, 3.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 10811.0 ],
+					"gain1" : [ 51.0 ],
+					"gain~" : [ 140, 141, 4, 6, 3, 3, 0, 1, 3, 1, 3, 3, 4, 4, 4, 4 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -16.738307695306389 ],
+					"live.gain~[2]" : [ -10.103092783505147 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.648, 0, 4, 0.604, 1, 1, 0.628, 1, 3, 0.584, 2, 6, 0.556, 2, 10, 0.576, 3, 7, 0.596, 3, 9, 0.532, 4, 12, 0.316, 4, 13, 0.356, 5, 13, 0.004, 5, 15, 0.364, 5, 16, 0.424, 6, 13, 0.004, 6, 18, 0.496, 6, 19, 0.536, 7, 21, 0.424, 7, 22, 0.452 ],
+					"mc.live.gain~" : [ -8.340335772965787 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 660894.3125 ],
+					"number[4]" : [ 257014.4375 ],
+					"number[5]" : [ 293730.791666666627862 ],
+					"number[7]" : [ -0.968812743781645 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "sliding_08.mp3",
+										"filename" : "sliding_08.mp3",
+										"filekind" : "audiofile",
+										"id" : "u793011376",
+										"loop" : 0,
+										"content_state" : 										{
+
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"selection" : [ 0.698863636363636, 0.579545454545455 ],
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 3.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 108 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"35" : 			{
+				"id" : 35,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 10811.0, 1.0, 3.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 10811.0 ],
+					"gain1" : [ 51.0 ],
+					"gain~" : [ 140, 141, 4, 6, 3, 3, 0, 1, 3, 1, 3, 3, 4, 4, 4, 4 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -16.738307695306389 ],
+					"live.gain~[2]" : [ -10.103092783505147 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.648, 0, 4, 0.604, 1, 1, 0.628, 1, 3, 0.584, 2, 6, 0.556, 2, 10, 0.576, 3, 7, 0.596, 3, 9, 0.532, 4, 12, 0.316, 4, 13, 0.356, 5, 13, 0.004, 5, 15, 0.364, 5, 16, 0.424, 6, 13, 0.004, 6, 18, 0.496, 6, 19, 0.536, 7, 21, 0.424, 7, 22, 0.452 ],
+					"mc.live.gain~" : [ -8.340335772965787 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 660894.3125 ],
+					"number[4]" : [ 257014.4375 ],
+					"number[5]" : [ 293730.791666666627862 ],
+					"number[7]" : [ -0.817441004950806 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "sliding_08.mp3",
+										"filename" : "sliding_08.mp3",
+										"filekind" : "audiofile",
+										"id" : "u793011376",
+										"loop" : 0,
+										"content_state" : 										{
+
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"selection" : [ 0.698863636363636, 0.579545454545455 ],
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 3.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 108 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"41" : 			{
+				"id" : 41,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 52, 36, 142, 32, 47, 33, 138, 39, 138, 37, 139, 38, 39, 38, 38 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.504, 0, 1, 0.58, 0, 2, 0.464, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.56, 3, 8, 0.004, 3, 9, 0.544, 3, 10, 0.616, 3, 11, 0.78, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.632, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.652, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.588, 6, 20, 0.544, 7, 4, 0.003418803453445, 7, 21, 0.528, 7, 22, 0.604, 7, 23, 0.488 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 84814.016540043507121 ],
+					"number[4]" : [ 16129.138880070584491 ],
+					"number[5]" : [ 82820.524407575765508 ],
+					"number[7]" : [ -0.468254308517323 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 12 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"42" : 			{
+				"id" : 42,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 52, 36, 142, 32, 47, 33, 138, 39, 138, 37, 139, 38, 39, 38, 38 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.504, 0, 1, 0.58, 0, 2, 0.464, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.56, 3, 8, 0.004, 3, 9, 0.544, 3, 10, 0.616, 3, 11, 0.78, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.632, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.652, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.588, 6, 20, 0.544, 7, 4, 0.003418803453445, 7, 21, 0.528, 7, 22, 0.604, 7, 23, 0.488 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 84814.016540043507121 ],
+					"number[4]" : [ 16129.138880070584491 ],
+					"number[5]" : [ 82820.524407575765508 ],
+					"number[7]" : [ -0.443975701553206 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 12 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"43" : 			{
+				"id" : 43,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 52, 36, 142, 32, 47, 33, 138, 39, 138, 37, 139, 38, 39, 38, 38 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.504, 0, 1, 0.58, 0, 2, 0.464, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.56, 3, 8, 0.004, 3, 9, 0.544, 3, 10, 0.616, 3, 11, 0.78, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.632, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.652, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.588, 6, 20, 0.544, 7, 4, 0.003418803453445, 7, 21, 0.528, 7, 22, 0.604, 7, 23, 0.488 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 84814.016540043507121 ],
+					"number[4]" : [ 16129.138880070584491 ],
+					"number[5]" : [ 82820.524407575765508 ],
+					"number[7]" : [ -0.414124955285849 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 12 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 8 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"44" : 			{
+				"id" : 44,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 157, 157, 155, 157, 157, 157, 157, 157, 157, 157, 157, 157, 157, 156, 157, 157 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -0.616121438428436 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.46, 0, 1, 0.548, 0, 2, 0.536, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.536, 3, 8, 0.004, 3, 9, 0.54, 3, 10, 0.616, 3, 11, 0.512, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.544, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.5, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.484, 6, 20, 0.544, 7, 4, 0.003418803453445 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 66966.351523413672112 ],
+					"number[4]" : [ 3291.065873509478024 ],
+					"number[5]" : [ 60813.448816189542413 ],
+					"number[7]" : [ -0.896569764904698 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 17 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 7 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"45" : 			{
+				"id" : 45,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 129, 129, 127, 129, 129, 129, 129, 129, 129, 129, 129, 129, 129, 128, 129, 129 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -0.616121438428436 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.46, 0, 1, 0.548, 0, 2, 0.536, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.536, 3, 8, 0.004, 3, 9, 0.54, 3, 10, 0.616, 3, 11, 0.512, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.544, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.5, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.484, 6, 20, 0.544, 7, 4, 0.003418803453445 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 66966.351523413672112 ],
+					"number[4]" : [ 3291.065873509478024 ],
+					"number[5]" : [ 60813.448816189542413 ],
+					"number[7]" : [ -0.817871616728977 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 18 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 7 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"47" : 			{
+				"id" : 47,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 129, 129, 127, 129, 129, 129, 129, 129, 129, 129, 129, 129, 129, 128, 129, 129 ],
+					"gswitch" : [  ],
+					"gswitch[1]" : [  ],
+					"gswitch[2]" : [  ],
+					"gswitch[3]" : [  ],
+					"gswitch[4]" : [  ],
+					"gswitch[5]" : [  ],
+					"gswitch[6]" : [  ],
+					"gswitch[7]" : [  ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -0.616121438428436 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.46, 0, 1, 0.548, 0, 2, 0.536, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.568, 1, 4, 0.54, 1, 5, 0.544, 2, 1, 0.004, 2, 4, 0.004, 2, 6, 0.528, 2, 7, 0.54, 2, 8, 0.536, 3, 8, 0.004, 3, 9, 0.54, 3, 10, 0.616, 3, 11, 0.512, 3, 21, 0.004, 4, 12, 0.564, 4, 13, 0.544, 4, 14, 0.568, 5, 13, 0.004, 5, 15, 0.532, 5, 16, 0.5, 5, 17, 0.516, 6, 13, 0.004, 6, 18, 0.508, 6, 19, 0.484, 6, 20, 0.544, 7, 4, 0.003418803453445 ],
+					"mc.live.gain~" : [ 0.0 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 56935.330768172789249 ],
+					"number[4]" : [ 8150.998014454329677 ],
+					"number[5]" : [ 54258.868090532021597 ],
+					"number[7]" : [ -0.801848844738805 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 18 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 7 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"49" : 			{
+				"id" : 49,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 3028.0, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 138, 137, 139, 138, 133, 138, 136, 139, 128, 141, 127, 136, 131, 139, 139 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -5.051546391752581 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.004, 0, 1, 0.636, 0, 7, 0.58, 0, 21, 0.004, 0, 23, 0.008, 1, 0, 0.632, 1, 1, 0.004, 1, 2, 0.004, 1, 5, 0.004, 1, 6, 0.6, 1, 7, 0.004, 2, 4, 0.628, 2, 5, 0.004, 2, 9, 0.004, 2, 10, 0.596, 3, 3, 0.58, 3, 9, 0.628, 3, 21, 0.004, 4, 9, 0.004, 4, 10, 0.004, 6, 1, 0.004, 6, 13, 0.004, 6, 16, 0.004, 7, 1, 0.004, 7, 4, 0.003418803453445, 7, 21, 0.004 ],
+					"mc.live.gain~" : [ -12.266841644794383 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 144000.0 ],
+					"number[4]" : [ 31384.604166666664241 ],
+					"number[5]" : [ 43692.291666666664241 ],
+					"number[7]" : [ 0.189767223627016 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 0 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+,
+			"57" : 			{
+				"id" : 57,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 143 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -1.12671483074925 ],
+					"live.gain~[3]" : [ -24.0 ],
+					"matrixctrl" : [ 0, 0, 0.312, 0, 1, 0.348, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 3, 0.34, 1, 4, 0.284, 1, 5, 0.003418803453445, 2, 6, 0.38, 2, 7, 0.352, 2, 23, 0.008, 3, 9, 0.388, 3, 10, 0.364, 4, 12, 0.396, 4, 13, 0.26, 5, 15, 0.292, 5, 16, 0.256, 6, 18, 0.324, 6, 19, 0.416, 7, 21, 0.304, 7, 22, 0.344 ],
+					"mc.live.gain~" : [ -4.547681539807527 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 22731.65611532323237 ],
+					"number[4]" : [ 437.142872268187944 ],
+					"number[5]" : [ 22731.65611532323237 ],
+					"number[7]" : [ -0.687594632244206 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 1 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 0 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"58" : 			{
+				"id" : 58,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 125, 127, 126, 127, 127, 126, 129, 129, 129, 129, 124, 129, 124, 126, 126, 126 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.011770435911998 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.008, 0, 1, 0.616, 0, 4, 0.616, 0, 6, 0.004, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 0, 0.68, 1, 5, 0.003418803453445, 1, 6, 0.004, 2, 3, 0.596, 2, 6, 0.996, 2, 7, 0.936, 2, 23, 0.008, 3, 9, 0.648, 3, 10, 0.632, 4, 12, 0.004, 4, 13, 0.004, 5, 15, 0.292, 5, 16, 0.256, 6, 18, 0.324, 6, 19, 0.416, 7, 21, 0.304, 7, 22, 0.344 ],
+					"mc.live.gain~" : [ -5.984251968503941 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 547945.333333333255723 ],
+					"number[4]" : [ 35124.6875 ],
+					"number[5]" : [ 98349.145833333328483 ],
+					"number[7]" : [ -0.997618468973046 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 124 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 7 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"59" : 			{
+				"id" : 59,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 1, 0, 0, 0, 4331.0, 1.0, 8.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1650.4490966796875, 0.956371665000916, 1.332913041114807 ],
+					"freqency1" : [ 4331.0 ],
+					"gain1" : [ 5.0 ],
+					"gain~" : [ 125, 127, 126, 127, 127, 126, 129, 129, 129, 129, 124, 129, 124, 126, 126, 126 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 0 ],
+					"gswitch[2]" : [ 0 ],
+					"gswitch[3]" : [ 0 ],
+					"gswitch[4]" : [ 0 ],
+					"gswitch[5]" : [ 0 ],
+					"gswitch[6]" : [ 0 ],
+					"gswitch[7]" : [ 0 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -9.011770435911998 ],
+					"live.gain~[3]" : [ -70.0 ],
+					"matrixctrl" : [ 0, 0, 0.008, 0, 1, 0.616, 0, 4, 0.616, 0, 6, 0.004, 0, 13, 0.003418803453445, 0, 16, 0.003418803453445, 1, 0, 0.68, 1, 5, 0.003418803453445, 1, 6, 0.004, 2, 3, 0.596, 2, 6, 0.996, 2, 7, 0.936, 2, 23, 0.008, 3, 9, 0.648, 3, 10, 0.632, 4, 12, 0.004, 4, 13, 0.004, 5, 15, 0.292, 5, 16, 0.256, 6, 18, 0.324, 6, 19, 0.416, 7, 21, 0.304, 7, 22, 0.344 ],
+					"mc.live.gain~" : [ -5.984251968503941 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 547945.333333333255723 ],
+					"number[4]" : [ 35124.6875 ],
+					"number[5]" : [ 98349.145833333328483 ],
+					"number[7]" : [ -0.998005465843658 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 8.0 ],
+					"slider" : [ 124 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 0 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 7 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 26 ],
+					"umenu[3]" : [ 1 ]
+				}
+
+			}
+,
+			"64" : 			{
+				"id" : 64,
+				"data" : 				{
+					"attrui" : [ "multislider", 1 ],
+					"filtergraph~" : [ 1, 0, 9, 0, 0, 0, 13262.91015625, 1.0, 2.0 ],
+					"filtergraph~[1]" : [ 1, 0, 0, 0, 0, 0, 1221.332275390625, 0.938258647918701, 1.332913041114807 ],
+					"freqency1" : [ 3028.0 ],
+					"gain1" : [ -3.0 ],
+					"gain~" : [ 140, 135, 135, 138, 138, 138, 140, 137, 139, 138, 140, 138, 136, 142, 140, 141 ],
+					"gswitch" : [ 0 ],
+					"gswitch[1]" : [ 1 ],
+					"gswitch[2]" : [ 1 ],
+					"gswitch[3]" : [ 1 ],
+					"gswitch[4]" : [ 1 ],
+					"gswitch[5]" : [ 1 ],
+					"gswitch[6]" : [ 1 ],
+					"gswitch[7]" : [ 1 ],
+					"icst.button" : [ 1 ],
+					"live.gain~" : [ -2.256750583648682 ],
+					"live.gain~[1]" : [ -7.201793877180705 ],
+					"live.gain~[2]" : [ -7.093270557675133 ],
+					"live.gain~[3]" : [ -68.803149606299215 ],
+					"matrixctrl" : [ 0, 0, 0.588, 0, 1, 0.268, 0, 2, 0.004, 0, 6, 0.003418803453445, 0, 21, 0.004, 0, 23, 0.008, 1, 3, 0.316, 2, 1, 0.004, 2, 4, 0.24, 2, 6, 0.444, 2, 7, 0.38, 2, 8, 0.396, 3, 8, 0.004, 3, 9, 0.508, 3, 10, 0.336, 3, 11, 0.436, 3, 21, 0.004, 4, 12, 0.34, 4, 13, 0.316, 4, 14, 0.372, 5, 13, 0.004, 5, 15, 0.4, 5, 16, 0.304, 5, 17, 0.344, 6, 13, 0.004, 6, 18, 0.428, 6, 19, 0.42, 6, 20, 0.224, 7, 4, 0.003418803453445, 7, 21, 0.236, 7, 22, 0.26, 7, 23, 0.16 ],
+					"mc.live.gain~" : [ -7.47594050743659 ],
+					"mc.live.gain~[1]" : [ -70.0 ],
+					"number" : [ -10.0 ],
+					"number[10]" : [ 0.0 ],
+					"number[1]" : [ 0.0 ],
+					"number[2]" : [ 0.0 ],
+					"number[3]" : [ 385365.333333333313931 ],
+					"number[4]" : [ 173743.770833333313931 ],
+					"number[5]" : [ 173743.770833333313931 ],
+					"number[7]" : [ 0.999980543080846 ],
+					"playlist~" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso.mp3",
+										"filename" : "metal_reso.mp3",
+										"filekind" : "audiofile",
+										"id" : "u373001846",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[1]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "metal_reso_beating.mp3",
+										"filename" : "metal_reso_beating.mp3",
+										"filekind" : "audiofile",
+										"id" : "u519001867",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[2]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "framedrum_sliding.mp3",
+										"filename" : "framedrum_sliding.mp3",
+										"filekind" : "audiofile",
+										"id" : "u671001888",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[3]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "eggcutter.mp3",
+										"filename" : "eggcutter.mp3",
+										"filekind" : "audiofile",
+										"id" : "u089001909",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"playlist~[4]" : [ 						{
+							"data" : 							{
+								"clips" : [ 									{
+										"absolutepath" : "bow_saltando.mp3",
+										"filename" : "bow_saltando.mp3",
+										"filekind" : "audiofile",
+										"id" : "u897001930",
+										"loop" : 1,
+										"content_state" : 										{
+											"loop" : 1
+										}
+
+									}
+ ]
+							}
+
+						}
+ ],
+					"q1" : [ 2.0 ],
+					"slider" : [ 127 ],
+					"toggle" : [ 0 ],
+					"toggle[1]" : [ 1 ],
+					"toggle[2]" : [ 0 ],
+					"umenu" : [ 2 ],
+					"umenu[1]" : [ 1 ],
+					"umenu[2]" : [ 6 ],
+					"umenu[3]" : [ 9 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
